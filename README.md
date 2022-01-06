@@ -1,5 +1,6 @@
 # NLP
 
+### WordCloud
 ![앨리스](https://user-images.githubusercontent.com/89093279/148335245-77fdc3b1-fe61-403b-be03-761dd92540d0.png)
 
 ![돌고래](https://user-images.githubusercontent.com/89093279/148335227-5657bca0-f7b7-4c15-9866-0eea5807a57f.PNG)
